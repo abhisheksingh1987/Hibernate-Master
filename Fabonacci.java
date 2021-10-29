@@ -10,6 +10,9 @@ public class Fabonacci {
 		j=k;
 		k=c;
 		}
+
+
+
 	
 	}
 	}
